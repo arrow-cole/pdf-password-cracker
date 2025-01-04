@@ -2,7 +2,8 @@
 
 # PDF Password Cracker
 
-PDF Password Cracker is a web-based application that assists in cracking passwords for PDF files using a brute-force technique. It is designed to aid cyber professionals and authorized forensic investigators in password recovery scenarios. Please note that this application is for educational purposes only and should be used responsibly and legally.
+PDF Password Cracker is a web-based application that assists in cracking passwords for PDF files using a brute-force technique. It
+ is designed to aid cyber professionals and authorized forensic investigators in password recovery scenarios. Please note that this application is for educational purposes only and should be used responsibly and legally.
 
 ## PDF Usage and Password Protection
 
